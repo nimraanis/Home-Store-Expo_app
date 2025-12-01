@@ -13,8 +13,5 @@ Home-Store is a simple and clean eCommerce mobile application developed using Re
 3. Start the application with `npx expo start`  
 4. Scan the QR code with Expo Go to preview the app on your device
 
-### Purpose
-This project serves as a learning and practice app for mobile development and UI building using Expo and React Native.
-```
 
-If you want, I can also write a **short one-line description** for the GitHub sidebar.
+
